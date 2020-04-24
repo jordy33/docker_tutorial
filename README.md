@@ -1,7 +1,7 @@
-## TURBO GEARS 2.3 ##
+## Docker ##
 
 CLICK [[HERE](https://github.com/jordy33/docker_tutorial/wiki)] TO ACCESS TUTORIAL
 
-Turbo Gears is based in MVC:  
+Docker Tutorial:  
 
 ![](/images/logodocker.png?raw=true)
